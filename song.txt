@@ -1,2 +1,4 @@
 the text of song
 second line of the text
+
+fourth line from gui
